@@ -1,4 +1,5 @@
-#!
+# Neste projeto trabalhamos com tratamento de data, pois precisamos dividir o arquivo 
+# Após as funções que calculam as datas, utilizamos as bibliotecas para gerar um arquivo em doc.
 import re
 import datetime
 from datetime import date
